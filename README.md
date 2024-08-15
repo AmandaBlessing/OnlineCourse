@@ -1,8 +1,5 @@
 # OnlineCourse
 
-Memory updated
-Here’s a basic README file template for your frontend development course:
-
 Frontend Development Course
 Overview
 Welcome to the Frontend Development Course! This course is designed to provide you with the essential skills and knowledge required to become a proficient front-end developer. Throughout this course, you will learn HTML, CSS, JavaScript, and modern web development techniques, enabling you to build responsive and interactive websites.
